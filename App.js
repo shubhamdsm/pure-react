@@ -24,3 +24,6 @@ const Pet = props => {
   };
   
   ReactDOM.render(React.createElement(App), document.getElementById("root"));
+  //render function takes two arguments -
+  //first argument - what we want to render
+  //second argument - where we want to render
